@@ -1,2 +1,1 @@
-# remote-repo
-adding a repo
+my name is arijit 
